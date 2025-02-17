@@ -1,1 +1,44 @@
-week 
+monday:
+situation: 
+- to complete datbase and ai research and image searching
+
+task: 
+- to create the database and protyope fo the website
+
+action:
+- using the er digram and use case diagram
+- using sqlite managed to use the er closley and db to create an effective and well-presented database. 
+
+result: 
+- the database was complemeted as well as a mock plus protype for the website. 
+proof:
+- use the er/case diagram for proof 
+- ss the code for the database 
+
+tuesday: 
+situation: 
+task:
+action:
+result:
+proof:
+
+wednesday: 
+situation: 
+task:
+action:
+result:
+proof:
+
+thursday: 
+situation: 
+task:
+action:
+result:
+proof:
+
+friday: 
+situation: 
+task:
+action:
+result:
+proof:
