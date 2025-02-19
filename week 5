@@ -17,10 +17,16 @@ proof:
 
 tuesday: 
 situation: 
-task:
+- to connect the files to the database and be able to intgerate the ai.
+- get a running and working front-end
+task: 
+- to cinnect the dtabase sucesfully 
 action:
+- using visual stuidio code and github to work with the team, usng the front end to make an established connection 
 result:
+- no result still figuring out how to connect the database sucesfully without any errors 
 proof:
+- er diagram n visual studio code 
 
 wednesday: 
 situation: 
