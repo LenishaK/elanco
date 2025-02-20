@@ -30,17 +30,30 @@ proof:
 
 wednesday: 
 situation: 
+- make sure that the persons and user stories are good and all set up and match the idea of what we are trying to create
+- make sure that the ai is trained on different behaviours and integrate it ingto the front-end using visual studoio code and node 
 task:
+- complete the requirement document and make sure that all stories are unique, make sense and are detailed. 
 action:
+- worked on the requiremnt personer and users 
 result:
+- completed the document to a high standard
 proof:
+- requiremnet document completed 
 
 thursday: 
 situation: 
+- make sure the ai is as trained as possible and integered in the code succesfully and seamlessly 
+- make sure all admin, planning and requiremnts are met.
+- demonstrate what we have so far to our liason.
 task:
+- complete admin bits, planning for everyone and a structured plan.
 action:
+- create a document detailing what everyone has done throughout the week 
 result:
+- 
 proof:
+- planning document 
 
 friday: 
 situation: 
