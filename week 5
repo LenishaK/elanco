@@ -56,8 +56,19 @@ proof:
 - planning document 
 
 friday: 
-situation: 
+situation:
+- now completed most parts, integrated the ai, the front-end created. now we need to showcase
 task:
+- make a presentation to show our client what we did so far if they likeit, aswell as any feedback 
 action:
+- made a powerpoint to show the client makin sure that we rehearse and that evryone has somethinh to say aswell as helped create a part of it 
 result:
+- showcased tp the cleint and we got feedback.
 proof:
+Elancos feedback from showcase;
+- Focus on tags and what the user wants, which tags are necessary? 
+- History is useful, previous uploads?, 
+- History based on user 
+- Differentiate the animals if there are two on a screen, figuring out how to split the ai to analyse two animals? Tags based on each animal in frame?
+- Who are we targeting? Give it a concept, give it a strategy
+
